@@ -3,7 +3,7 @@
 </div>
 
 ## <img height="40" src="https://github.com/BySeru/BySeru/blob/main/BySeru/miau.gif"/> use daily
-`.Tex`, `.py`
+`.TeX`, `.py`
 
 ## <img height="40" src="https://github.com/BySeru/BySeru/blob/main/BySeru/kirby.gif"/> Links
 [![GitHub BySeru](https://img.shields.io/github/followers/BySeru?style=social)](https://github.com/BySeru)
